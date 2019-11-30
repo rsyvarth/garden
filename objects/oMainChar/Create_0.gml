@@ -5,4 +5,4 @@ velocity_horizontal = 0;
 dir = "down";
 state = "idle";
 
-movement_speed = 3;
+movement_speed = 2;

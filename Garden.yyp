@@ -82,7 +82,7 @@
             "Key": "266c2986-05da-4809-88ad-43bd9bf5a892",
             "Value": {
                 "id": "68b1e5fb-19f5-4cf2-a04e-629ee7dd63be",
-                "resourcePath": "rooms\/garden2\/garden2.yy",
+                "resourcePath": "rooms\/rGarden\/rGarden.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -98,7 +98,7 @@
             "Key": "2fb3e327-ad58-40b4-a4ea-910c6ab3dba2",
             "Value": {
                 "id": "9d5d6ddf-56ef-4b3f-bf0b-0d6808c75885",
-                "resourcePath": "rooms\/garden\/garden.yy",
+                "resourcePath": "rooms\/rGardenTropical\/rGardenTropical.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -252,6 +252,22 @@
                 "id": "1ead3bdd-41d6-4358-929b-b12496e5bf08",
                 "resourcePath": "sprites\/sWall\/sWall.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e1127c9d-260f-48c7-acdb-304eb1f9c1fc",
+            "Value": {
+                "id": "5d7b60f4-0ed9-4e11-965e-fb1d923b5d25",
+                "resourcePath": "objects\/oDoor\/oDoor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e7b99af8-b4ce-4c5e-9dab-15bcf69b4e7b",
+            "Value": {
+                "id": "236ed36d-133e-44be-9a7c-0f17230fbcfb",
+                "resourcePath": "rooms\/rSetup\/rSetup.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
