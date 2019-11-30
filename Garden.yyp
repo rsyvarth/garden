@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "266c2986-05da-4809-88ad-43bd9bf5a892",
+            "Value": {
+                "id": "68b1e5fb-19f5-4cf2-a04e-629ee7dd63be",
+                "resourcePath": "rooms\/garden2\/garden2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "2762b792-067d-46f7-bd57-168dc0d2b3d5",
             "Value": {
                 "id": "4211c1ad-a838-4321-9edb-d4e981df4a9e",
@@ -98,7 +106,7 @@
             "Key": "30657478-9681-4fbb-92b9-382c88906acc",
             "Value": {
                 "id": "7f200b37-904f-42ba-8424-5829154cbc60",
-                "resourcePath": "sprites\\sBackground2\\sBackground2.yy",
+                "resourcePath": "sprites\/sBackground2\/sBackground2.yy",
                 "resourceType": "GMSprite"
             }
         },
