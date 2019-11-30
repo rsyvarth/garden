@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "272b0e7c-2ba1-40d5-a672-6123a171fb0a",
+            "Value": {
+                "id": "c9fb3d68-c6d3-4eb8-87c9-344ad545f36b",
+                "resourcePath": "views\/272b0e7c-2ba1-40d5-a672-6123a171fb0a.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2762b792-067d-46f7-bd57-168dc0d2b3d5",
             "Value": {
                 "id": "4211c1ad-a838-4321-9edb-d4e981df4a9e",
@@ -234,8 +242,16 @@
             "Key": "c0f036f2-d323-42fa-9d6e-8472fdcd4464",
             "Value": {
                 "id": "b8d50bc1-df4d-480b-8afd-a70a96d6af17",
-                "resourcePath": "sprites\\sWorker\\sWorker.yy",
+                "resourcePath": "sprites\/sWorker\/sWorker.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c74deeba-07f8-4670-9547-11243650da0e",
+            "Value": {
+                "id": "15a35b3c-ed43-4a05-a9be-313ee32bb754",
+                "resourcePath": "objects\/oNPCBase\/oNPCBase.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -316,6 +332,14 @@
                 "id": "3202050f-3df5-4c5c-9012-988c0845b177",
                 "resourcePath": "sprites\/sBackground\/sBackground.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fe01b508-43fa-4265-9146-028b935a1132",
+            "Value": {
+                "id": "32c0954c-fbe3-4430-a899-8632a88e4f52",
+                "resourcePath": "objects\/oUserInterface\/oUserInterface.yy",
+                "resourceType": "GMObject"
             }
         }
     ],

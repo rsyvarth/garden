@@ -1,0 +1,1 @@
+text = "I am another gardener.. I am very special!"

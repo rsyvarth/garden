@@ -41,7 +41,18 @@ if (velocity_vertical > 0) {
 if ( place_free(x+(velocity_horizontal),y+(velocity_vertical)) ) {
     x += velocity_horizontal
 	y += velocity_vertical
+	depth = -y
 }
+
+var ui = instance_find(oUserInterface, 0)
+var npc = instance_nearest(x,y, oNPCBase)
+if(npc != noone && point_distance(x,y, npc.x, npc.y) < 50) {
+	ui.open = true
+	ui.text = npc.text
+} else {
+	ui.open = false
+}
+
 
 // Set the sprite based on whether we are moving/stopped and our direction
 if(dir == "down") {
