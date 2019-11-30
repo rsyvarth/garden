@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "0044a12e-a2e8-431c-a523-9e4962a5b6fe",
+            "Value": {
+                "id": "c9084e37-ff3e-4d3d-96d1-c4bab1edb3b2",
+                "resourcePath": "sprites\\sCharFwdWalk\\sCharFwdWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "054d07ff-2722-48d0-9207-fca886e9faee",
+            "Value": {
+                "id": "444f4e9a-057e-41c8-8022-6049c5a28c6e",
+                "resourcePath": "sprites\\sCharBckWalk\\sCharBckWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "08b9169d-f102-40cd-8cb9-c12a1e06b7d5",
             "Value": {
                 "id": "a994e151-78f3-45be-9c08-52aae3202c88",
@@ -119,14 +135,6 @@
             }
         },
         {
-            "Key": "71ad50af-dc34-4ce4-8195-163cf98e0b44",
-            "Value": {
-                "id": "03697f0e-ab17-4ff6-8f22-9b598d1484ca",
-                "resourcePath": "sprites\\sMainCharFwdWalk\\sMainCharFwdWalk.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "72df9bcc-b9a7-4c75-8774-772e90efc2f4",
             "Value": {
                 "id": "98a433dc-9e79-483a-8847-697426bd9b6f",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "9d634565-8a19-45dd-8736-34bb2707da4c",
+            "Value": {
+                "id": "590d406c-fc19-450d-8d0d-b2a39f79f6ed",
+                "resourcePath": "sprites\\sCharBckIdle\\sCharBckIdle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b1b10889-b81f-4961-b5ea-1693caaac21d",
             "Value": {
                 "id": "2c7ac545-c022-45eb-90f0-e72ec4edcf32",
@@ -156,6 +172,14 @@
                 "id": "c6488bc8-a37c-4bfb-b20c-210afc919b10",
                 "resourcePath": "sounds\/soOverseerTheme\/soOverseerTheme.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "b908ae9d-6f39-490a-8f94-60d4cc0d4827",
+            "Value": {
+                "id": "03957f1c-4e10-488b-b264-921a7551ff58",
+                "resourcePath": "sprites\\sCharFwdIdle\\sCharFwdIdle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -180,14 +204,6 @@
                 "id": "25a45a65-b130-4d40-adbc-87ddd8a0953b",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "d52df14c-a1df-4d62-9f06-d067c43a4fb5",
-            "Value": {
-                "id": "6c60851d-dffc-4b19-9a27-d02438df0261",
-                "resourcePath": "sprites\/sMainCharIdle\/sMainCharIdle.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
