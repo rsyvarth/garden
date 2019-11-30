@@ -38,8 +38,10 @@ if (velocity_vertical > 0) {
 	dir = "down"
 }
 
-x += velocity_horizontal
-y += velocity_vertical
+if ( place_free(x+(velocity_horizontal),y+(velocity_vertical)) ) {
+    x += velocity_horizontal
+	y += velocity_vertical
+}
 
 // Set the sprite based on whether we are moving/stopped and our direction
 if(dir == "down") {

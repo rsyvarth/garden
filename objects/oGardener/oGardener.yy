@@ -1,18 +1,18 @@
 {
-    "id": "bcd67570-b559-4b1f-88ad-cf341d51880e",
+    "id": "726a4d9a-5a6b-4446-9a71-454f5fa2c7a4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oGame",
+    "name": "oGardener",
     "eventList": [
         {
-            "id": "fa2a371b-f253-45d3-bb43-9437faf6ff8b",
+            "id": "78ab3566-a19a-4cea-b4f6-5a2a59155ed5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "bcd67570-b559-4b1f-88ad-cf341d51880e"
+            "m_owner": "726a4d9a-5a6b-4446-9a71-454f5fa2c7a4"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -32,7 +32,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
-    "visible": false
+    "solid": true,
+    "spriteId": "9d634565-8a19-45dd-8736-34bb2707da4c",
+    "visible": true
 }
