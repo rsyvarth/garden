@@ -8,4 +8,4 @@ global.MonitorH=display_get_height();
 
 room_goto(rGarden)
 
-//audio_play_sound(soOverseerTheme, 10, true);
+audio_play_sound(soOverseerTheme, 10, true);
